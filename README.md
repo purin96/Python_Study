@@ -55,3 +55,7 @@ source ~/.zshrc
 ```
 python --version
 ```
+## 실행
+```
+python hello.py
+```
