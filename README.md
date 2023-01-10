@@ -59,3 +59,4 @@ python --version
 ```
 python hello.py
 ```
+너가해주라
