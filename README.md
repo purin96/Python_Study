@@ -59,4 +59,5 @@ python --version
 ```
 python hello.py
 ```
-너가해주라
+너가해주라../오늘강의
+들어야하는데
