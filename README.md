@@ -59,4 +59,4 @@ python --version
 ```
 python hello.py
 ```
-892
+꺼져
