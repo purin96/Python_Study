@@ -60,3 +60,4 @@ python --version
 python hello.py
 ```
 77777777777770116
+1일차끝
