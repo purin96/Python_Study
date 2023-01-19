@@ -59,7 +59,4 @@ python --version
 ```
 python hello.py
 ```
-77777777777770116
-1일차끝
-2일차끝
-한은영쌤 바보
+
