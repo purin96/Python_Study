@@ -60,3 +60,4 @@ python --version
 python hello.py
 ```
 
+3일차끝ㅗ
