@@ -60,4 +60,4 @@ python --version
 python hello.py
 ```
 tl;k;
-
+어휴하기시러
