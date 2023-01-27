@@ -60,3 +60,4 @@ python --version
 python hello.py
 ```
 
+하기시러
