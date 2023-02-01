@@ -59,5 +59,3 @@ python --version
 ```
 python hello.py
 ```
-포기
-
