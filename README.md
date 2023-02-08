@@ -59,3 +59,4 @@ python --version
 ```
 python hello.py
 ```
+아라힘들오
