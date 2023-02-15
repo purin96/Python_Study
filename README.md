@@ -60,4 +60,4 @@ python --version
 python hello.py
 ```
 
-- 아라후엥
+- 아라바보
