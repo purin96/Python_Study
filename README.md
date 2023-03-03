@@ -60,5 +60,4 @@ python --version
 python hello.py
 ```
 
-- 아라바보
--=
+- 아라천재
