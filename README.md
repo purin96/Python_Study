@@ -60,4 +60,4 @@ python --version
 python hello.py
 ```
 
-- 아라천재
+- 아라
