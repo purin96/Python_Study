@@ -60,4 +60,3 @@ python --version
 python hello.py
 ```
 
-- 아라 조오오온나 멍청
