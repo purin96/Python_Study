@@ -12,6 +12,7 @@ brew install pyenv
 - python3설치
 
 ```
+
 pyenv install --list
 ```
 
