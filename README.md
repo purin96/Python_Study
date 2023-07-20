@@ -21,7 +21,6 @@ pyenv install --list
 pyenv install 3.9.1
 ```
 
-
 ```
 python --version
 ```
