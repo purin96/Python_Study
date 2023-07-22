@@ -8,6 +8,7 @@
 
 ```
 brew install pyenv
+
 ```
 
 - python3설치
