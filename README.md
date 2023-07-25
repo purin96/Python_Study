@@ -1,8 +1,6 @@
 # Python_Study
 
 
-
-
 ## 설치
 
 
